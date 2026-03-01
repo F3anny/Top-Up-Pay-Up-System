@@ -154,10 +154,7 @@ Wire the RC522 RFID reader to your ESP8266 (NodeMCU) as follows:
 
 Create a `.env` file in the `backend/` directory:
 
-```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/edgewallet
-PORT=8256
-```
+
 
 ### Frontend Configuration
 
